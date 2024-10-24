@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_multi_select_procedural_or_substantive_issues",
+  "info": {
+    "displayName": "procedural_or_substantive_issues",
+    "icon": "bulletList"
+  },
+  "options": {},
+  "attributes": {
+    "options": {
+      "type": "enumeration",
+      "enum": [
+        "Procedural",
+        "Substantive",
+        "Both",
+        "N/A_case_is_relevant_only_for_obiter_dicta"
+      ],
+      "required": true
+    }
+  }
+}

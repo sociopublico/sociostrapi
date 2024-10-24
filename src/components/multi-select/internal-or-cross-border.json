@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_multi_select_internal_or_cross_borders",
+  "info": {
+    "displayName": "internal_or_cross_border",
+    "icon": "bulletList",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "options": {
+      "type": "enumeration",
+      "enum": [
+        "Internal",
+        "Cross-border",
+        "Both"
+      ],
+      "required": true
+    }
+  }
+}

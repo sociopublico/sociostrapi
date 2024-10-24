@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_multi_select_appeals",
+  "info": {
+    "displayName": "appeal",
+    "icon": "bulletList",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "options": {
+      "type": "enumeration",
+      "enum": [
+        "Yes_(and_an_appeal_was_filed_and_decided_upon_in_a_higher_court)",
+        "Yes_(and_the_appeal_is_pending)",
+        "No",
+        "Unknown"
+      ],
+      "required": true
+    }
+  }
+}

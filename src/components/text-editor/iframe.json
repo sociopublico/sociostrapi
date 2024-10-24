@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_text_editor_iframes",
+  "info": {
+    "displayName": "iframe",
+    "icon": "code"
+  },
+  "options": {},
+  "attributes": {
+    "code": {
+      "type": "text",
+      "required": true
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_multi_select_court_instances",
+  "info": {
+    "displayName": "court_instance",
+    "icon": "bulletList"
+  },
+  "options": {},
+  "attributes": {
+    "options": {
+      "type": "enumeration",
+      "enum": [
+        "First",
+        "Second",
+        "Third",
+        "Final"
+      ],
+      "required": true
+    }
+  }
+}

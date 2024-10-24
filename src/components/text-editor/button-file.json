@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_text_editor_button_files",
+  "info": {
+    "displayName": "button_file",
+    "icon": "book",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "file": {
+      "type": "media",
+      "multiple": false,
+      "required": true,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "name": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

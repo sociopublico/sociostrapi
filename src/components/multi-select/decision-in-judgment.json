@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_multi_select_decision_in_judgments",
+  "info": {
+    "displayName": "decision_in_judgment",
+    "icon": "bulletList"
+  },
+  "options": {},
+  "attributes": {
+    "options": {
+      "type": "enumeration",
+      "enum": [
+        "In_favor_of_the_State",
+        "In_favor_of_the_applicant"
+      ],
+      "required": true
+    }
+  }
+}

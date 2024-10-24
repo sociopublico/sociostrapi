@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_post_select_blog_posts",
+  "info": {
+    "displayName": "blog-post",
+    "icon": "manyWays"
+  },
+  "options": {},
+  "attributes": {
+    "blog_posts": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::blog-post.blog-post"
+    }
+  }
+}

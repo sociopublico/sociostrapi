@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_multi_select_categories",
+  "info": {
+    "displayName": "category",
+    "icon": "bulletList",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "options": {
+      "type": "enumeration",
+      "enum": [
+        "Category_1",
+        "Category_2",
+        "Category_3"
+      ],
+      "required": true
+    }
+  }
+}

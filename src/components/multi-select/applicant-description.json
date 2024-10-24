@@ -1,0 +1,30 @@
+{
+  "collectionName": "components_multi_select_applicant_descriptions",
+  "info": {
+    "displayName": "applicant_description",
+    "icon": "bulletList",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "options": {
+      "type": "enumeration",
+      "enum": [
+        "Adult_man",
+        "Adult_woman",
+        "Family/couple_with_children",
+        "Family/couple_without_children",
+        "Mother_with_child/ren",
+        "Father_with_child/ren",
+        "Family/couple_with_adult_children_(+_18)",
+        "Boy_child_as_main_applicant",
+        "Girl_child_as_main_applicant",
+        "Boy_or/and_girl_children_as_main_applicants",
+        "Boy_children_as_main_applicants",
+        "Girl_children_as_main_applicants",
+        "Other"
+      ],
+      "required": true
+    }
+  }
+}

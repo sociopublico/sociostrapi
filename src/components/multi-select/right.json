@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_multi_select_rights",
+  "info": {
+    "displayName": "right",
+    "icon": "bulletList"
+  },
+  "options": {},
+  "attributes": {
+    "options": {
+      "type": "enumeration",
+      "enum": [
+        "Right_to_Life",
+        "Prohibition_of_Torture_Inhumane_and_Degrading_Treatment",
+        "Right_to_Private/Family_Life",
+        "Right_to_Healthy_Environment",
+        "Environment",
+        "Other"
+      ],
+      "required": true
+    }
+  }
+}

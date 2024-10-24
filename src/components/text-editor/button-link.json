@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_text_editor_button_links",
+  "info": {
+    "displayName": "button_link",
+    "icon": "attachment"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "link": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

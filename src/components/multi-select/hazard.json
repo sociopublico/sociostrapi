@@ -1,0 +1,32 @@
+{
+  "collectionName": "components_multi_select_hazards",
+  "info": {
+    "displayName": "hazard",
+    "icon": "bulletList",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "options": {
+      "type": "enumeration",
+      "enum": [
+        "Cyclone",
+        "Drought",
+        "Earthquake",
+        "Flood",
+        "Heatwave",
+        "Hurricane",
+        "Landslide",
+        "Sea_Level_Rise",
+        "Tsunami",
+        "Typhoon",
+        "Wildfire",
+        "Climate_change",
+        "Environmental_Degradation",
+        "Epidemic/Pandemic/Other",
+        "Other"
+      ],
+      "required": true
+    }
+  }
+}

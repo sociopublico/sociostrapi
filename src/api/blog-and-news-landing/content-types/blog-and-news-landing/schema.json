@@ -1,0 +1,45 @@
+{
+  "kind": "singleType",
+  "collectionName": "blog_and_news_landings",
+  "info": {
+    "singularName": "blog-and-news-landing",
+    "pluralName": "blog-and-news-landings",
+    "displayName": "Blog Landing",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "subtitle": {
+      "type": "text"
+    },
+    "highlighted_title": {
+      "type": "string"
+    },
+    "highlighted_content": {
+      "type": "dynamiczone",
+      "components": [
+        "post-select.newsletter",
+        "post-select.blog-post"
+      ]
+    },
+    "blog_title": {
+      "type": "string"
+    },
+    "blog_subtitle": {
+      "type": "text"
+    },
+    "newsletter_title": {
+      "type": "string"
+    },
+    "newsletter_subtitle": {
+      "type": "text"
+    }
+  }
+}

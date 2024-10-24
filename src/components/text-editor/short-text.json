@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_text_editor_short_texts",
+  "info": {
+    "displayName": "short_text",
+    "icon": "pencil",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "text",
+      "required": true
+    }
+  }
+}
